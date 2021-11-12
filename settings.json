@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Palenight Operator",
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "git.autofetch": true,
+    "window.zoomLevel": -1,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnSave": true,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.fontLigatures": true,
+}
